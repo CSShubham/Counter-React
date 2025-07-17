@@ -27,7 +27,7 @@ A simple and minimal counter application built with **React** and **Vite**. This
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/CSShubham/Counter-React  
 
 # Navigate into the project
 cd your-repo-name
@@ -37,7 +37,9 @@ npm install
 
 # Start the development server
 npm run dev
+```
 
+---  
 
 # React + Vite
 
