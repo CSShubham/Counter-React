@@ -1,3 +1,44 @@
+# 🔢 React + Vite Counter App
+
+A simple and minimal counter application built with **React** and **Vite**. This project demonstrates basic React concepts like state management, event handling, and component structuring using modern tooling.
+
+---
+
+## 🚀 Features
+
+- ✅ Increment the counter
+- ✅ Decrement the counter
+- ✅ Reset the counter
+- ⚛️ Built with React + Vite
+- 💡 Clean UI and easy to use
+
+--- 
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate into the project
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
